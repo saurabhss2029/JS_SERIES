@@ -10,7 +10,7 @@ console.log("Saurabh")
 
 
 let name = "Saurabh"
-let age = 18
+let age = 22
 let isLoggedIn = true
 let state;
 
@@ -19,10 +19,8 @@ let state;
 // string => ""
 // boolean => true/false
 // null => standalone value
-// undefined => 
+// undefined =>
 // symbol => unique
-
-
 // object
 
 console.log(typeof undefined); // undefined
