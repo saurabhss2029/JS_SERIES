@@ -17,7 +17,7 @@ const shoppingCart = [
     },
     {
         itemName: "py course",
-        price: 999
+        price: 998
     },
     {
         itemName: "mobile dev course",
