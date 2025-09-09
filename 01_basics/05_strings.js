@@ -1,5 +1,5 @@
 const name = "hitesh"
-const repoCount = 50
+const repoCount = 70
 
 // console.log(name + repoCount + " Value");
 
