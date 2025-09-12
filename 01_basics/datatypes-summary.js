@@ -34,4 +34,4 @@ const myFunction = function(){
 
 console.log(typeof anotherId);
 
-// https://262.ecma-international.org/5.1/#sec-11.4.3
+// https://262.ecma-international.org/5.1/#sec-11.4.3 -> link for type of data types and waht will they give if we apply typeof on them
