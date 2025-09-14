@@ -23,7 +23,7 @@ const JsUser = {
 // console.log(JsUser[mySym])
 
 JsUser.email = "hitesh@chatgpt.com"
-// Object.freeze(JsUser)
+// Object.freeze(JsUser)->cant change
 JsUser.email = "hitesh@microsoft.com"
 // console.log(JsUser);
 

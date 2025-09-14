@@ -2,7 +2,7 @@
 const tinderUser = {}
 
 tinderUser.id = "123abc"
-tinderUser.name = "Sammy"
+tinderUser.name = "Saurabh"
 tinderUser.isLoggedIn = false
 
 // console.log(tinderUser);
