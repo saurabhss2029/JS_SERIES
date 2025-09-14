@@ -1,4 +1,4 @@
-
+//block of code used to perform task or calculate a value
 function sayMyName(){
     console.log("H");
     console.log("I");
